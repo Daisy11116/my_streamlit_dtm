@@ -5,7 +5,6 @@ Created on Sun Apr 20 10:44:33 2025
 
 @author: supatsarasaennang
 """
-
 #import library
 import streamlit as st
 import numpy as np
